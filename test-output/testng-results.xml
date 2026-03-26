@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-06T14:52:46 UTC" name="Default suite" finished-at="2026-03-06T14:53:17 UTC" duration-ms="31319">
+    <groups>
+    </groups>
+    <test started-at="2026-03-06T14:52:46 UTC" name="Default test" finished-at="2026-03-06T14:53:17 UTC" duration-ms="31319">
+      <class name="api.TwoWayReconciliation">
+        <test-method signature="performTwoWayReconciliation()[pri:0, instance:api.TwoWayReconciliation@77f80c04]" started-at="2026-03-06T14:52:46 UTC" name="performTwoWayReconciliation" finished-at="2026-03-06T14:53:17 UTC" duration-ms="31274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performTwoWayReconciliation -->
+      </class> <!-- api.TwoWayReconciliation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
