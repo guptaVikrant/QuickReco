@@ -1,5 +1,7 @@
 package api;
 
+import static io.restassured.RestAssured.given;
+
 import java.io.File;
 //import java.io.FileWriter;
 import java.io.IOException;
@@ -11,8 +13,6 @@ import org.testng.annotations.Test;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import utils.JSONToExcelConverter;
-
-import static io.restassured.RestAssured.*;
 
 public class TwoWayReconciliation {
 
